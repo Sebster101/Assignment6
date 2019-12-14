@@ -13,9 +13,9 @@ SRC
 Readme
 
 References:
-https://github.com/vince-carpino/CPSC-350 // General styling for Stack file
-https://www.geeksforgeeks.org/gnome-sort-a-stupid-one/
-http://www.cplusplus.com/reference/ctime/clock/
+https://github.com/vince-carpino/CPSC-350 // For help with GnomeSort
+https://www.geeksforgeeks.org/gnome-sort-a-stupid-one/ //Further gnomesort help
+http://www.cplusplus.com/reference/ctime/clock/ //Timing solution
 
 
 
