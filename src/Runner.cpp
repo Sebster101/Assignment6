@@ -165,7 +165,7 @@ void Runner::sortAll()
 	clock_t timeEnd;
 	float timeTotal;
 
-	cout << "\n Sorting \n";
+	cout << "\nSorting \n";
 
 	timeStart = clock();
 	bubbleSort(bubbleSortArray);
@@ -191,6 +191,6 @@ void Runner::sortAll()
 	gnomeSort(gnomeSortArray);
 	timeEnd = clock();
 	timeTotal = (float(timeEnd - timeStart)/CLOCKS_PER_SEC) * 1000;
-	cout << "\nGnomeSort: " << timeTotal << " MS Elapsed" << " For " << numElements << " Numbers" << endl;
+	cout << "\nGnomeSort: " << timeTotal << " MS Elapsed" << " For " << numElements << " Numbers\n";
 
 }
